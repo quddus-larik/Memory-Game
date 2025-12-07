@@ -129,11 +129,6 @@ button:hover {
 .highlight {
     color: #7303c0;
 }
-footer{
-    text-align: left;
-    margin: 10px;
-    font-size: 8px;
-}
 
 @media (width <= 640px) or (orientation: portrait){
     .Bcontainer{
@@ -144,4 +139,5 @@ footer{
         height: 50px;
         width: 50px;
     }
+
 }
